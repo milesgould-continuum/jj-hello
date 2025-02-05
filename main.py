@@ -5,12 +5,12 @@
 
 def main():
     myprint("Hello, world!")
-    myprint("Goodbye, world!")
 
 
 def myprint(s):
     """A function that prints a message"""
     print(s)
+
 
 if __name__ == '__main__':
     main()
