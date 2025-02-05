@@ -4,17 +4,13 @@
 # This is the best implementation of this program to ever exist.
 
 def main():
-    print_hello()
-    print_goodbye()
+    myprint("Hello, world!")
+    myprint("Goodbye, world!")
 
 
-def print_hello():
-    print("Hello, world!")
-
-
-def print_goodbye():
-    print("Goodbye, world!")
-
+def myprint(s):
+    """A function that prints a message"""
+    print(s)
 
 if __name__ == '__main__':
     main()
