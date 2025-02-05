@@ -4,7 +4,7 @@
 # This is the best implementation of this program to ever exist.
 
 def main():
-    """The main function"""
+    """The main function runs when the program is started"""
     myprint("Hello, world!")
 
 
