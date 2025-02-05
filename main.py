@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # A "Hello, world!" program.
 
 def main():
